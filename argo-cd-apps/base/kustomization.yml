@@ -8,3 +8,4 @@ resources:
   - nexus-repo.yml
   - openshift-pipelines.yml
   - sonarqube.yml
+  - quay.yml
